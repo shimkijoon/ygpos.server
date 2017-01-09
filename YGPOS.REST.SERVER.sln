@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGPOS.REST.SERVER", "YGPOS.REST.SERVER\YGPOS.REST.SERVER.csproj", "{B757206F-3A57-4642-9FB4-7CF3D3D13769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGPOS.REST.SERVER.Tests", "YGPOS.REST.SERVER.Tests\YGPOS.REST.SERVER.Tests.csproj", "{3CAA33A8-85D9-4FBA-93BE-CACAB768902C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B757206F-3A57-4642-9FB4-7CF3D3D13769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B757206F-3A57-4642-9FB4-7CF3D3D13769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B757206F-3A57-4642-9FB4-7CF3D3D13769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B757206F-3A57-4642-9FB4-7CF3D3D13769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAA33A8-85D9-4FBA-93BE-CACAB768902C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAA33A8-85D9-4FBA-93BE-CACAB768902C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAA33A8-85D9-4FBA-93BE-CACAB768902C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAA33A8-85D9-4FBA-93BE-CACAB768902C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
